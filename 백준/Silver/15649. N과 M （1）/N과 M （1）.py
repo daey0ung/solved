@@ -1,3 +1,4 @@
+# 순열
 N, M = map(int, input().split())
 array = [i for i in range(1,N+1)]
 visited = [False for _ in range(len(array))]
